@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\admin\Desktop\code\github\Network\Lab1\Network_Lab1\Project1\main.cpp(58,30): warning C4805: “|”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\admin\Desktop\code\github\Network\Lab1\Network_Lab1\Project1\main.cpp(147,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\admin\Desktop\code\github\Network\Lab1\Network_Lab1\Project1\main.cpp(147,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 399 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> C:\Users\admin\Desktop\code\github\Network\Lab1\Network_Lab1\x64\Release\Project1.exe
